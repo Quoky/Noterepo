@@ -55,15 +55,15 @@
 */
 const messages = [
    "?????!!!!!?",
-    "M đùa t hả qky",
-    "Uả là quà chỉ có nhiêu đó?",
-    "Ei sao nhạt v...",
-    "BIẾN ĐI!",
-    "Nhìn người ta mà phát khóc",
-    "Mình dừng lại đi...",
+    "滚 (gǔn)",
+    "没有钱 (Méiyǒu qián)",
+    "Oẹee",
+    "对不起 (Duìbùqǐ)",
+    "Con đang mơ hả",
+    "谢谢 (Xièxiè)",
     "Ờ",
-    "Có gì không t đang bận",
-    "BLOCK!!!"
+    "Thuộc bài thì mua",
+    "Để báo phụ huynh"
 ];
 
 let messageIndex = 0;
